@@ -1,7 +1,7 @@
 # 🚀 ULTRA PRO MAX PHONE OSINT
 
 **Profesyonel Telefon Numarası Analiz ve OSINT Platformu**  
-*Bilişim Güvenliği Teknolojisi - Bitirme Projesi*
+*Bilişim Güvenliği Teknolojisi 
 
 ---
 
@@ -295,22 +295,14 @@ Bu proje eğitim amaçlıdır. Ticari kullanıma kapalıdır.
 
 ## 📞 İLETİŞİM
 
-- **Email:** [öğrenci-email@okul.edu.tr]
-- **GitHub:** [github-kullanıcı-adı]
-- **Okul:** [Okul Adı]
+- **Email:** [25370301036@subu.edu.tr]
+- **Okul:** [Sakarya Uygulamalı Bilimler Üniversitesi]
 - **Bölüm:** Bilişim Güvenliği Teknolojisi
 
 ---
 
 ## 🙏 TEŞEKKÜRLER
 
-- Danışman hocamız [Hoca Adı]'na rehberliği için
-- Bölüm hocalarımıza verdikleri eğitim için
-- Açık kaynak topluluğuna katkıları için
-
-**"Bilgi güçtür, sorumlulukla kullanın."**
-
----
 
 *Son Güncelleme: Aralık 2025*  
 *Versiyon: 1.0.0*  
