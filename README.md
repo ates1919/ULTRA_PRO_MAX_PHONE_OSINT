@@ -276,10 +276,9 @@ ULTRA_PRO_MAX_PHONE_OSINT/
 ## 👥 KATKı
 
 ### Öğrenci Bilgileri
-- **Adı Soyadı:** [Öğrenci Adı Soyadı]
-- **Öğrenci No:** [Öğrenci Numarası]
+- **Adı Soyadı:** Süleyman Sungur Alp Ateş
+- **Öğrenci No:** 25370301036
 - **Bölüm:** Bilişim Güvenliği Teknolojisi
-- **Danışman:** [Danışman Hoca Adı]
 - **Dönem:** 2024-2025 Güz Dönemi
 
 ### Proje Sunumu
